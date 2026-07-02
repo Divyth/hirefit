@@ -1,0 +1,16 @@
+node_modules
+dist
+build
+.env
+.env.local
+uploads
+coverage
+client/node_modules
+client/dist
+server/node_modules
+server/dist
+server/uploads
+server/.local-data
+client/*.tsbuildinfo
+client/vite.config.d.ts
+*.log
